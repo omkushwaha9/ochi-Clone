@@ -2,8 +2,13 @@ import React from 'react'
 
 function LandingPage() {
   return (
-    <div>
-      
+    <div className='w-full h-screen bg-zinc-950 pt-1'>
+      <div className='textstructure mt-32 px-16'>
+        <div className='masker'>
+            <h1 className=' uppercase text-9xl leading-none tracking-tight font-["Founders_Grotesk"] '>We Create</h1>
+
+        </div>
+      </div>
     </div>
   )
 }
