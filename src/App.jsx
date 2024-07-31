@@ -10,9 +10,9 @@ function App() {
     <div className='w-full min-h-screen bg-zinc-950 text-white'>
       <Navbar />
       <LandingPage />
-      <Marquee/>
-      <About/>
-      <Eyes/>
+      <Marquee />
+      <About />
+      <Eyes />
     </div>
   )
 }
